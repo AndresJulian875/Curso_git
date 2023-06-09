@@ -1,1 +1,1 @@
-print("KLK IDKgit")
+print("KLK IDKgita")
